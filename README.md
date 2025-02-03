@@ -1,6 +1,6 @@
 # Discord Bots Frontend
 
-This project is frontend for viewing Discord Bots, which is [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This project is frontend for viewing Discord Bots, which is [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Through this app, you can add your bots to run, retrieve and delete it.
 
 ## Install Prerequisites
 
